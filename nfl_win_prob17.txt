@@ -1,5 +1,5 @@
 							NFL Win Probabilities based on ratings obtained from preseason total wins betting lines
-							Method: 
+					   Method: https://412sportsanalytics.wordpress.com/2017/09/04/pre-season-nfl-ratings-based-on-vegas-total-win-lines/
 
 
 Home	Away	HomeWinProb	AwayWinProb
