@@ -1,0 +1,261 @@
+							NFL Win Probabilities based on ratings obtained from preseason total wins betting lines
+							Method: 
+
+
+Home	Away	HomeWinProb	AwayWinProb
+New England Patriots 	Kansas City Chiefs 	0.760681141157 	0.239318858843
+Buffalo Bills 	New York Jets 	0.688285199286 	0.311714800714
+Chicago Bears 	Atlanta Falcons 	0.300235837995 	0.699764162005
+Cincinnati Bengals 	Baltimore Ravens 	0.528904962062 	0.471095037938
+Cleveland Browns 	Pittsburgh Steelers 	0.199233482081 	0.800766517919
+Detroit Lions 	Arizona Cardinals 	0.586368612499 	0.413631387501
+Houston Texans 	Jacksonville Jaguars 	0.738100234941 	0.261899765059
+Miami Dolphins 	Tampa Bay Buccaneers 	0.518535454215 	0.481464545785
+Tennessee Titans 	Oakland Raiders 	0.397959376118 	0.602040623882
+Washington Redskins 	Philadelphia Eagles 	0.547918503602 	0.452081496398
+Los Angeles Rams 	Indianapolis Colts 	0.361954436593 	0.638045563407
+Green Bay Packers 	Seattle Seahawks 	0.580744090914 	0.419255909086
+San Francisco 49ers 	Carolina Panthers 	0.284183770191 	0.715816229809
+Dallas Cowboys 	New York Giants 	0.609680760108 	0.390319239892
+Minnesota Vikings 	New Orleans Saints 	0.582198461458 	0.417801538542
+Denver Broncos 	Los Angeles Chargers 	0.651259006196 	0.348740993804
+Cincinnati Bengals 	Houston Texans 	0.570384711979 	0.429615288021
+Carolina Panthers 	Buffalo Bills 	0.684302178593 	0.315697821407
+Indianapolis Colts 	Arizona Cardinals 	0.624182484083 	0.375817515917
+Jacksonville Jaguars 	Tennessee Titans 	0.399835889328 	0.600164110672
+Kansas City Chiefs 	Philadelphia Eagles 	0.66665733777 	0.33334266223
+New Orleans Saints 	New England Patriots 	0.263836253718 	0.736163746282
+Pittsburgh Steelers 	Minnesota Vikings 	0.699218937582 	0.300781062418
+Baltimore Ravens 	Cleveland Browns 	0.820915751161 	0.179084248839
+Tampa Bay Buccaneers 	Chicago Bears 	0.758087694799 	0.241912305201
+Oakland Raiders 	New York Jets 	0.873281855489 	0.126718144511
+Los Angeles Chargers 	Miami Dolphins 	0.560600048942 	0.439399951058
+Denver Broncos 	Dallas Cowboys 	0.527931064994 	0.472068935006
+Los Angeles Rams 	Washington Redskins 	0.387158873419 	0.612841126581
+Seattle Seahawks 	San Francisco 49ers 	0.873870587402 	0.126129412598
+Atlanta Falcons 	Green Bay Packers 	0.551668604978 	0.448331395022
+New York Giants 	Detroit Lions 	0.663300770244 	0.336699229756
+San Francisco 49ers 	Los Angeles Rams 	0.495700468252 	0.504299531748
+Jacksonville Jaguars 	Baltimore Ravens 	0.345496402211 	0.654503597789
+Buffalo Bills 	Denver Broncos 	0.399190536898 	0.600809463102
+Carolina Panthers 	New Orleans Saints 	0.591166170619 	0.408833829381
+Chicago Bears 	Pittsburgh Steelers 	0.263694799224 	0.736305200776
+Indianapolis Colts 	Cleveland Browns 	0.796291226505 	0.203708773495
+Detroit Lions 	Atlanta Falcons 	0.429233252553 	0.570766747447
+Minnesota Vikings 	Tampa Bay Buccaneers 	0.53956232356 	0.46043767644
+New England Patriots 	Houston Texans 	0.83315481909 	0.16684518091
+New York Jets 	Miami Dolphins 	0.352849131823 	0.647150868177
+Philadelphia Eagles 	New York Giants 	0.502837120045 	0.497162879955
+Tennessee Titans 	Seattle Seahawks 	0.442540895202 	0.557459104798
+Green Bay Packers 	Cincinnati Bengals 	0.683283871119 	0.316716128881
+Los Angeles Chargers 	Kansas City Chiefs 	0.447037257711 	0.552962742289
+Washington Redskins 	Oakland Raiders 	0.392880974334 	0.607119025666
+Arizona Cardinals 	Dallas Cowboys 	0.409615630545 	0.590384369455
+Green Bay Packers 	Chicago Bears 	0.81887484118 	0.18112515882
+Miami Dolphins 	New Orleans Saints 	0.56145846027 	0.43854153973
+Atlanta Falcons 	Buffalo Bills 	0.757475997575 	0.242524002425
+Cleveland Browns 	Cincinnati Bengals 	0.317701210646 	0.682298789354
+Dallas Cowboys 	Los Angeles Rams 	0.830197080815 	0.169802919185
+Houston Texans 	Tennessee Titans 	0.583678795896 	0.416321204104
+Minnesota Vikings 	Detroit Lions 	0.610907870233 	0.389092129767
+New England Patriots 	Carolina Panthers 	0.820758225019 	0.179241774981
+New York Jets 	Jacksonville Jaguars 	0.523928948387 	0.476071051613
+Baltimore Ravens 	Pittsburgh Steelers 	0.460999680253 	0.539000319747
+Arizona Cardinals 	San Francisco 49ers 	0.769496003967 	0.230503996033
+Los Angeles Chargers 	Philadelphia Eagles 	0.549792671458 	0.450207328542
+Tampa Bay Buccaneers 	New York Giants 	0.542087451847 	0.457912548153
+Denver Broncos 	Oakland Raiders 	0.479751739298 	0.520248260702
+Seattle Seahawks 	Indianapolis Colts 	0.668594496331 	0.331405503669
+Kansas City Chiefs 	Washington Redskins 	0.685349620448 	0.314650379552
+Tampa Bay Buccaneers 	New England Patriots 	0.30035728812 	0.69964271188
+Cincinnati Bengals 	Buffalo Bills 	0.668673942951 	0.331326057049
+Cleveland Browns 	New York Jets 	0.543115471227 	0.456884528773
+Indianapolis Colts 	San Francisco 49ers 	0.810911024722 	0.189088975278
+Detroit Lions 	Carolina Panthers 	0.515999921849 	0.484000078151
+Miami Dolphins 	Tennessee Titans 	0.572948081426 	0.427051918574
+New York Giants 	Los Angeles Chargers 	0.649878389794 	0.350121610206
+Philadelphia Eagles 	Arizona Cardinals 	0.6186686311 	0.3813313689
+Pittsburgh Steelers 	Jacksonville Jaguars 	0.844389907304 	0.155610092696
+Oakland Raiders 	Baltimore Ravens 	0.677142810634 	0.322857189366
+Los Angeles Rams 	Seattle Seahawks 	0.268663143029 	0.731336856971
+Dallas Cowboys 	Green Bay Packers 	0.553411690694 	0.446588309306
+Houston Texans 	Kansas City Chiefs 	0.465813411871 	0.534186588129
+Chicago Bears 	Minnesota Vikings 	0.388874296041 	0.611125703959
+Carolina Panthers 	Philadelphia Eagles 	0.587429826673 	0.412570173327
+Atlanta Falcons 	Miami Dolphins 	0.679655199868 	0.320344800132
+Houston Texans 	Cleveland Browns 	0.792184511954 	0.207815488046
+Minnesota Vikings 	Green Bay Packers 	0.4555742808 	0.5444257192
+New Orleans Saints 	Detroit Lions 	0.597382947484 	0.402617052516
+New York Jets 	New England Patriots 	0.115193557388 	0.884806442612
+Baltimore Ravens 	Chicago Bears 	0.760059536354 	0.239940463646
+Washington Redskins 	San Francisco 49ers 	0.792392469103 	0.207607530897
+Arizona Cardinals 	Tampa Bay Buccaneers 	0.477774147476 	0.522225852524
+Jacksonville Jaguars 	Los Angeles Rams 	0.586503226516 	0.413496773484
+Kansas City Chiefs 	Pittsburgh Steelers 	0.522114113007 	0.477885886993
+Oakland Raiders 	Los Angeles Chargers 	0.729702082436 	0.270297917564
+Denver Broncos 	New York Giants 	0.569909350446 	0.430090649554
+Tennessee Titans 	Indianapolis Colts 	0.547398541469 	0.452601458531
+Oakland Raiders 	Kansas City Chiefs 	0.620330200749 	0.379669799251
+Buffalo Bills 	Tampa Bay Buccaneers 	0.42661705523 	0.57338294477
+Chicago Bears 	Carolina Panthers 	0.380076779444 	0.619923220556
+Cleveland Browns 	Tennessee Titans 	0.333489880023 	0.666510119977
+Indianapolis Colts 	Jacksonville Jaguars 	0.742774206186 	0.257225793814
+Green Bay Packers 	New Orleans Saints 	0.688472275058 	0.311527724942
+Miami Dolphins 	New York Jets 	0.764996386367 	0.235003613633
+Minnesota Vikings 	Baltimore Ravens 	0.537048816169 	0.462951183831
+Pittsburgh Steelers 	Cincinnati Bengals 	0.706310952168 	0.293689047832
+Los Angeles Rams 	Arizona Cardinals 	0.417158098624 	0.582841901376
+San Francisco 49ers 	Dallas Cowboys 	0.213799170274 	0.786200829726
+New York Giants 	Seattle Seahawks 	0.523761329362 	0.476238670638
+Los Angeles Chargers 	Denver Broncos 	0.482494381818 	0.517505618182
+New England Patriots 	Atlanta Falcons 	0.757978671469 	0.242021328531
+Philadelphia Eagles 	Washington Redskins 	0.588786076312 	0.411213923688
+Baltimore Ravens 	Miami Dolphins 	0.619694678841 	0.380305321159
+Cleveland Browns 	Minnesota Vikings 	0.310433940481 	0.689566059519
+Buffalo Bills 	Oakland Raiders 	0.316099753855 	0.683900246145
+Cincinnati Bengals 	Indianapolis Colts 	0.564713757605 	0.435286242395
+New Orleans Saints 	Chicago Bears 	0.723066234162 	0.276933765838
+New England Patriots 	Los Angeles Chargers 	0.844722798367 	0.155277201633
+New York Jets 	Atlanta Falcons 	0.250804341009 	0.749195658991
+Philadelphia Eagles 	San Francisco 49ers 	0.806963311445 	0.193036688555
+Tampa Bay Buccaneers 	Carolina Panthers 	0.588026576229 	0.411973423771
+Seattle Seahawks 	Houston Texans 	0.673809810498 	0.326190189502
+Washington Redskins 	Dallas Cowboys 	0.439999196432 	0.560000803568
+Detroit Lions 	Pittsburgh Steelers 	0.387209277597 	0.612790722403
+Kansas City Chiefs 	Denver Broncos 	0.60321203532 	0.39678796468
+New York Jets 	Buffalo Bills 	0.441894401166 	0.558105598834
+Carolina Panthers 	Atlanta Falcons 	0.481643407836 	0.518356592164
+Houston Texans 	Indianapolis Colts 	0.562768231975 	0.437231768025
+Jacksonville Jaguars 	Cincinnati Bengals 	0.382999724207 	0.617000275793
+New Orleans Saints 	Tampa Bay Buccaneers 	0.525604082754 	0.474395917246
+New York Giants 	Los Angeles Rams 	0.802023479241 	0.197976520759
+Tennessee Titans 	Baltimore Ravens 	0.511439133404 	0.488560866596
+Philadelphia Eagles 	Denver Broncos 	0.501349250339 	0.498650749661
+Seattle Seahawks 	Washington Redskins 	0.692357286252 	0.307642713748
+San Francisco 49ers 	Arizona Cardinals 	0.34739594253 	0.65260405747
+Dallas Cowboys 	Kansas City Chiefs 	0.57358209353 	0.42641790647
+Miami Dolphins 	Oakland Raiders 	0.402391592244 	0.597608407756
+Green Bay Packers 	Detroit Lions 	0.714197650332 	0.285802349668
+Arizona Cardinals 	Seattle Seahawks 	0.406996386684 	0.593003613316
+Buffalo Bills 	New Orleans Saints 	0.469389822493 	0.530610177507
+Chicago Bears 	Green Bay Packers 	0.285609227606 	0.714390772394
+Indianapolis Colts 	Pittsburgh Steelers 	0.425309224563 	0.574690775437
+Detroit Lions 	Cleveland Browns 	0.767358709483 	0.232641290517
+Jacksonville Jaguars 	Los Angeles Chargers 	0.403104395833 	0.596895604167
+Tennessee Titans 	Cincinnati Bengals 	0.551152580089 	0.448847419911
+Tampa Bay Buccaneers 	New York Jets 	0.801893175819 	0.198106824181
+Washington Redskins 	Minnesota Vikings 	0.537804628826 	0.462195371174
+Los Angeles Rams 	Houston Texans 	0.367373725649 	0.632626274351
+Atlanta Falcons 	Dallas Cowboys 	0.566710815995 	0.433289184005
+San Francisco 49ers 	New York Giants 	0.245967386577 	0.754032613423
+Denver Broncos 	New England Patriots 	0.325301782771 	0.674698217229
+Carolina Panthers 	Miami Dolphins 	0.598045618496 	0.401954381504
+Pittsburgh Steelers 	Tennessee Titans 	0.721223277185 	0.278776722815
+Chicago Bears 	Detroit Lions 	0.431332801844 	0.568667198156
+Cleveland Browns 	Jacksonville Jaguars 	0.498359915749 	0.501640084251
+Green Bay Packers 	Baltimore Ravens 	0.64691513698 	0.35308486302
+Houston Texans 	Arizona Cardinals 	0.618697537558 	0.381302462442
+Minnesota Vikings 	Los Angeles Rams 	0.760859070004 	0.239140929996
+New Orleans Saints 	Washington Redskins 	0.585044635015 	0.414955364985
+New York Giants 	Kansas City Chiefs 	0.531653929389 	0.468346070611
+Los Angeles Chargers 	Buffalo Bills 	0.649496872051 	0.350503127949
+Denver Broncos 	Cincinnati Bengals 	0.63172659798 	0.36827340202
+Oakland Raiders 	New England Patriots 	0.409149470419 	0.590850529581
+Dallas Cowboys 	Philadelphia Eagles 	0.671402504978 	0.328597495022
+Seattle Seahawks 	Atlanta Falcons 	0.572822940208 	0.427177059792
+Detroit Lions 	Minnesota Vikings 	0.525173104324 	0.474826895676
+Dallas Cowboys 	Los Angeles Chargers 	0.68830992302 	0.31169007698
+Washington Redskins 	New York Giants 	0.482094320022 	0.517905679978
+Atlanta Falcons 	Tampa Bay Buccaneers 	0.633372649457 	0.366627350543
+Cincinnati Bengals 	Cleveland Browns 	0.793596608145 	0.206403391855
+Indianapolis Colts 	Tennessee Titans 	0.589296680804 	0.410703319196
+Kansas City Chiefs 	Buffalo Bills 	0.754754021968 	0.245245978032
+New England Patriots 	Miami Dolphins 	0.839921754405 	0.160078245595
+New York Jets 	Carolina Panthers 	0.325088051433 	0.674911948567
+Philadelphia Eagles 	Chicago Bears 	0.726273812671 	0.273726187329
+Los Angeles Rams 	New Orleans Saints 	0.371027207042 	0.628972792958
+San Francisco 49ers 	Seattle Seahawks 	0.211840183823 	0.788159816177
+Arizona Cardinals 	Jacksonville Jaguars 	0.694221243025 	0.305778756975
+Oakland Raiders 	Denver Broncos 	0.653801502988 	0.346198497012
+Pittsburgh Steelers 	Green Bay Packers 	0.594118281144 	0.405881718856
+Baltimore Ravens 	Houston Texans 	0.609205919512 	0.390794080488
+Dallas Cowboys 	Washington Redskins 	0.689981827969 	0.310018172031
+Atlanta Falcons 	Minnesota Vikings 	0.660519707139 	0.339480292861
+Buffalo Bills 	New England Patriots 	0.18921831412 	0.81078168588
+Chicago Bears 	San Francisco 49ers 	0.669158964523 	0.330841035477
+Green Bay Packers 	Tampa Bay Buccaneers 	0.649264252122 	0.350735747878
+Jacksonville Jaguars 	Indianapolis Colts 	0.379385811303 	0.620614188697
+Miami Dolphins 	Denver Broncos 	0.490437828694 	0.509562171306
+New Orleans Saints 	Carolina Panthers 	0.545492779705 	0.454507220295
+New York Jets 	Kansas City Chiefs 	0.253575386046 	0.746424613954
+Tennessee Titans 	Houston Texans 	0.553106465419 	0.446893534581
+Baltimore Ravens 	Detroit Lions 	0.64098702953 	0.35901297047
+Los Angeles Chargers 	Cleveland Browns 	0.778361814972 	0.221638185028
+Arizona Cardinals 	Los Angeles Rams 	0.710209459082 	0.289790540918
+Oakland Raiders 	New York Giants 	0.655176385664 	0.344823614336
+Seattle Seahawks 	Philadelphia Eagles 	0.673837146404 	0.326162853596
+Cincinnati Bengals 	Pittsburgh Steelers 	0.421596145601 	0.578403854399
+Atlanta Falcons 	New Orleans Saints 	0.673280211357 	0.326719788643
+Buffalo Bills 	Indianapolis Colts 	0.459811221933 	0.540188778067
+Carolina Panthers 	Minnesota Vikings 	0.577475248536 	0.422524751464
+Cincinnati Bengals 	Chicago Bears 	0.727941069729 	0.272058930271
+Cleveland Browns 	Green Bay Packers 	0.218100492928 	0.781899507072
+Houston Texans 	San Francisco 49ers 	0.80698409173 	0.19301590827
+Jacksonville Jaguars 	Seattle Seahawks 	0.28409611103 	0.71590388897
+Kansas City Chiefs 	Oakland Raiders 	0.51534729525 	0.48465270475
+Tampa Bay Buccaneers 	Detroit Lions 	0.638618557286 	0.361381442714
+Arizona Cardinals 	Tennessee Titans 	0.532543748999 	0.467456251001
+Denver Broncos 	New York Jets 	0.820913555092 	0.179086444908
+Los Angeles Chargers 	Washington Redskins 	0.570303607357 	0.429696392643
+New York Giants 	Dallas Cowboys 	0.526446631587 	0.473553368413
+Los Angeles Rams 	Philadelphia Eagles 	0.367402293688 	0.632597706312
+Pittsburgh Steelers 	Baltimore Ravens 	0.671024227366 	0.328975772634
+Miami Dolphins 	New England Patriots 	0.258069411513 	0.741930588487
+Indianapolis Colts 	Denver Broncos 	0.507132810698 	0.492867189302
+Detroit Lions 	Chicago Bears 	0.697704423183 	0.302295576817
+Kansas City Chiefs 	Los Angeles Chargers 	0.683667027816 	0.316332972184
+Buffalo Bills 	Miami Dolphins 	0.476452972091 	0.523547027909
+Carolina Panthers 	Green Bay Packers 	0.464713815477 	0.535286184523
+Cleveland Browns 	Baltimore Ravens 	0.282972735189 	0.717027264811
+Jacksonville Jaguars 	Houston Texans 	0.384886466745 	0.615113533255
+Minnesota Vikings 	Cincinnati Bengals 	0.576480492614 	0.423519507386
+New Orleans Saints 	New York Jets 	0.770414653698 	0.229585346302
+New York Giants 	Philadelphia Eagles 	0.632211362102 	0.367788637898
+Washington Redskins 	Arizona Cardinals 	0.598697187923 	0.401302812077
+Seattle Seahawks 	Los Angeles Rams 	0.831897019526 	0.168102980474
+Pittsburgh Steelers 	New England Patriots 	0.402564700637 	0.597435299363
+San Francisco 49ers 	Tennessee Titans 	0.314509348487 	0.685490651513
+Oakland Raiders 	Dallas Cowboys 	0.615338501383 	0.384661498617
+Tampa Bay Buccaneers 	Atlanta Falcons 	0.501607061853 	0.498392938147
+Baltimore Ravens 	Indianapolis Colts 	0.603658285329 	0.396341714671
+Green Bay Packers 	Minnesota Vikings 	0.675955111719 	0.324044888281
+Carolina Panthers 	Tampa Bay Buccaneers 	0.54869148752 	0.45130851248
+Chicago Bears 	Cleveland Browns 	0.649799898489 	0.350200101511
+Cincinnati Bengals 	Detroit Lions 	0.603031648228 	0.396968351772
+Kansas City Chiefs 	Miami Dolphins 	0.676543472394 	0.323456527606
+New Orleans Saints 	Atlanta Falcons 	0.458520619349 	0.541479380651
+New England Patriots 	Buffalo Bills 	0.88982690603 	0.11017309397
+New York Jets 	Los Angeles Chargers 	0.360277688658 	0.639722311342
+Tennessee Titans 	Los Angeles Rams 	0.740453697404 	0.259546302596
+Washington Redskins 	Denver Broncos 	0.480608055771 	0.519391944229
+San Francisco 49ers 	Jacksonville Jaguars 	0.477303344569 	0.522696655431
+Arizona Cardinals 	New York Giants 	0.451267148221 	0.548732851779
+Dallas Cowboys 	Seattle Seahawks 	0.565791423285 	0.434208576715
+Houston Texans 	Pittsburgh Steelers 	0.41966454355 	0.58033545645
+Philadelphia Eagles 	Oakland Raiders 	0.413010192075 	0.586989807925
+Atlanta Falcons 	Carolina Panthers 	0.652048525661 	0.347951474339
+Indianapolis Colts 	Houston Texans 	0.574105443434 	0.425894556566
+Detroit Lions 	Green Bay Packers 	0.412599876566 	0.587400123434
+Miami Dolphins 	Buffalo Bills 	0.656851556804 	0.343148443196
+Minnesota Vikings 	Chicago Bears 	0.734697191186 	0.265302808814
+New England Patriots 	New York Jets 	0.938728826305 	0.0612711736952
+New York Giants 	Washington Redskins 	0.651630249262 	0.348369750738
+Tennessee Titans 	Jacksonville Jaguars 	0.725280002697 	0.274719997303
+Philadelphia Eagles 	Dallas Cowboys 	0.460584370053 	0.539415629947
+Pittsburgh Steelers 	Cleveland Browns 	0.882817529703 	0.117182470297
+Baltimore Ravens 	Cincinnati Bengals 	0.607308197672 	0.392691802328
+Tampa Bay Buccaneers 	New Orleans Saints 	0.610492751494 	0.389507248506
+Denver Broncos 	Kansas City Chiefs 	0.533136911311 	0.466863088689
+Los Angeles Rams 	San Francisco 49ers 	0.638931846623 	0.361068153377
+Los Angeles Chargers 	Oakland Raiders 	0.39470199862 	0.60529800138
+Seattle Seahawks 	Arizona Cardinals 	0.719078376705 	0.280921623295
