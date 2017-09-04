@@ -1,4 +1,3 @@
-from matplotlib import pyplot as plt
 from scipy.stats import norm
 import sys
 import os
@@ -7,7 +6,6 @@ import pandas as pd
 import numpy as np
 from scipy import optimize
 from numpy import linalg as LA
-import nflgame
 
 dflines = pd.read_csv("underover.csv")
 df = pd.read_csv("schedule.csv")
@@ -21,13 +19,10 @@ df['hidx'] = df[col2].apply(lambda x: teams.index(x))
 n_teams = 32
 home_edge = 3
 
-def nmbrawins(x):
-        return sum(i < 0 for i in x)
-
 def rtg_constr(x):
     return np.mean(x)
 
-def obj1(x):
+def obj(x):
 	err = 0
 	df['proj'] = 3+df.hidx.apply(lambda i: x[i]) - df.aidx.apply(lambda i: x[i])
 	df['hwinpr']=1 - norm.cdf(0.5,df['proj'],14.5)
@@ -41,7 +36,7 @@ def obj1(x):
 
 x0 = np.zeros(shape=n_teams)
 
-res = optimize.minimize(obj1,x0, constraints=[{'type':'eq', 'fun':rtg_constr}], method="SLSQP",
+res = optimize.minimize(obj,x0, constraints=[{'type':'eq', 'fun':rtg_constr}], method="SLSQP",
                         options={'maxiter':10000})
 
 
