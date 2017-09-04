@@ -1,11 +1,9 @@
 from scipy.stats import norm
 import sys
 import os
-import seaborn as sns
 import pandas as pd
 import numpy as np
 from scipy import optimize
-from numpy import linalg as LA
 
 dflines = pd.read_csv("underover.csv")
 df = pd.read_csv("schedule.csv")
